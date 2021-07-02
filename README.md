@@ -7,6 +7,6 @@ Host: 127.0.0.1\
 Port: 54000\
 Connection type: raw
 
-### Connection to server with client file
+### Connecting to server with client file
 
 Just do it.
