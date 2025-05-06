@@ -1,5 +1,5 @@
 # tcpserver
-An example basic tcp server on Windows
+An example of a basic TCP server on Windows
 
 ### Connecting to server with PuTTY
 
